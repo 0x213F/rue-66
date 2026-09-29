@@ -141,6 +141,8 @@ a:hover{ color:var(--rouge); }
   text-wrap:balance;
   color:var(--paper); margin:1.15rem 0 0;
 }
+.hero__tag span{ display:block; }
+.hero__tag span + span{ margin-top:.35em; }
 .hero__sub{
   color:rgba(245,242,234,.82);
   max-width:36rem; margin:.9rem auto 0; font-size:1.03rem;
