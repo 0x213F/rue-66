@@ -41,10 +41,6 @@ by the band:
 
 - **No booking email.** The contact section currently points people at Facebook.
   If there's a real booking address, add a `mailto:` link in `<section id="contact">`.
-- **Drummer.** Two names appear in public sources — Tim Orr (credited on the
-  *Partie de Dames* EP) and John Stuart (in the band's own bio). Both are listed;
-  trim if only one is current.
-- **Current lineup generally** — the roster below reflects roughly 2021 sources.
 - **Debut album tracklist** — ten titles come from the Koolkat Musik listing; the
   last two (*Je T'aime Quand Même*, *Je M'en Fous*) are named on the band's old
   site as originals but their track positions are a guess.
